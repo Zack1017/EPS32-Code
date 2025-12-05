@@ -23,8 +23,8 @@ In Tools set:
 Note: Must use Native USB-C Port and not external UART adapter. 
 
 ### Code Example: 
-Basic USB Keyboard example (types once on boot)
-Type when a button is pressed
+[Basic USB Keyboard example (types once on boot)](https://github.com/Zack1017/EPS32-Code/blob/main/USB_ESP32/BasicKeyboard.cpp)
+[Type when a button is pressed](https://github.com/Zack1017/EPS32-Code/blob/main/USB_ESP32/ButtonKeyboard.cpp)
 
 ### Common Issues 
 * Board not recognized as keyboard
